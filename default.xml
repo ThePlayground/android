@@ -19,6 +19,7 @@
         <copyfile src="core/root.mk" dest="Makefile" />
     </project>
     <project path="abi/cpp" name="platform/abi/cpp" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
+    <project path="bionic" name="CyanogenMod/android_bionic" />
     <project path="bootable/bootloader/legacy" name="CyanogenMod/android_bootable_bootloader_legacy" />
     <project path="bootable/diskinstaller" name="CyanogenMod/android_bootable_diskinstaller" />
     <project path="bootable/recovery" name="CyanogenMod/android_bootable_recovery" />
@@ -243,7 +244,6 @@
     <project path="system/su" name="CyanogenMod/android_system_su" />
     <project path="system/vold" name="CyanogenMod/android_system_vold" />
     
-    <project path="bionic" name="android_bionic" remote="twisted" revision="ics" />
     <project path="external/wpa_supplicant_6" name="android_external_wpa_supplicant_6" remote="twisted" revision="ics" />
     <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="twisted" revision="ics" />
     <project path="frameworks/base" name="android_frameworks_base" remote="twisted" revision="ics" />
