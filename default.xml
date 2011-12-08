@@ -169,7 +169,6 @@
     <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
     <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
     <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
-    <project path="hardware/libhardware" name="CyanogenMod/android_hardware_libhardware" />
     <project path="hardware/libhardware_legacy" name="CyanogenMod/android_hardware_libhardware_legacy" />
     <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
     <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
@@ -248,6 +247,7 @@
     <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="twisted" revision="ics" />
     <project path="frameworks/base" name="android_frameworks_base" remote="twisted" revision="ics" />
     <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="twisted" revision="ics" />
+    <project path="hardware/libhardware" name="android_hardware_libhardware" remote="twisted" revision="ics" />
     <project path="hardware/msm7k" name="android_hardware_msm7k" remote="twisted" revision="ics" />
     <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="twisted" revision="ics" />
     <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="twisted" revision="ics" />
