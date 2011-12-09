@@ -236,7 +236,6 @@
     <project path="prebuilt" name="CyanogenMod/android_prebuilt" />
     <project path="vendor/cm" name="CyanogenMod/android_vendor_cm" />
     <project path="sdk" name="CyanogenMod/android_sdk" />
-    <project path="system/core" name="CyanogenMod/android_system_core" />
     <project path="system/extras" name="CyanogenMod/android_system_extras" />
     <project path="system/media" name="CyanogenMod/android_system_media" />
     <project path="system/netd" name="CyanogenMod/android_system_netd" />
@@ -252,6 +251,7 @@
     <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="twisted" revision="ics" />
     <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="twisted" revision="ics" />
     <project path="system/bluetooth" name="android_system_bluetooth" remote="twisted" revision="ics" />
+    <project path="system/core" name="android_system_core" remote="twisted" revision="ics" />
     
     <project path="device/htc/mecha" name="android_device_htc_mecha" remote="twisted" revision="ics" />
     <project path="device/htc/ace" name="android_device_htc_ace" remote="twisted" revision="ics" />
