@@ -166,6 +166,7 @@
     <project path="frameworks/opt/mailcommon" name="platform/frameworks/opt/mailcommon" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
     <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
     <project path="frameworks/support" name="platform/frameworks/support" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
+    <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
     <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
     <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
     <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
@@ -184,6 +185,7 @@
     <project path="packages/apps/CertInstaller" name="CyanogenMod/android_packages_apps_CertInstaller" />
     <project path="packages/apps/Contacts" name="CyanogenMod/android_packages_apps_Contacts" />
     <project path="packages/apps/DeskClock" name="CyanogenMod/android_packages_apps_DeskClock" />
+    <project path="packages/apps/DSPManager" name="CyanogenMod/android_packages_apps_DSPManager" />
     <project path="packages/apps/Email" name="CyanogenMod/android_packages_apps_Email" />
     <project path="packages/apps/Exchange" name="platform/packages/apps/Exchange" remote="aosp" revision="refs/tags/android-4.0.1_r1" />
     <project path="packages/apps/Gallery" name="CyanogenMod/android_packages_apps_Gallery" />
@@ -261,5 +263,5 @@
     <project path="vendor/twisted" name="proprietary_vendor_twisted" remote="twisted" revision="ics" />
     
     <project path="android" name="android" remote="twisted" revision="ics" />
-    
+
 </manifest>
