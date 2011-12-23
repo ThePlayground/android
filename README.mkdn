@@ -1,4 +1,4 @@
-CyanogenMod
+CyanogenMod / Twisted ICS
 ===========
 
 Submitting Patches
@@ -26,14 +26,14 @@ To view the status of your and others' patches, visit [CyanogenMod Code Review](
 Getting Started
 ---------------
 
-To get started with Android/CyanogenMod, you'll need to get
+To get started with Android/CyanogenMod/Twisted ICS, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
 To initialize your local repository using the CyanogenMod trees, use a command like this:
 
     repo init -u git://github.com/CyanogenMod/android.git -b ics
 
-To initialize your local repository using the TwistedUmbrella edits, use a command like this:
+To initialize your local repository using the TwistedUmbrella trees, use a command like this:
 
     repo init -u git://github.com/TwistedUmbrella/android.git -b ics
 
@@ -51,4 +51,4 @@ Buildbot
 
 All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
 
-You can view the current build statuses at [buildbot.teamdouche.net](http://buildbot.teamdouche.net/)
+You can view the current build statuses for CyanogenMod at [buildbot.teamdouche.net](http://buildbot.teamdouche.net/) and Twisted ICS at [TwistedPlayground] (http://TwistedPlayrgound.info/TimeStamp)
