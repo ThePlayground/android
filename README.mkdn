@@ -51,4 +51,4 @@ Buildbot
 
 All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
 
-You can view the current build statuses for CyanogenMod at [buildbot.teamdouche.net](http://buildbot.teamdouche.net/) and Twisted ICS at [TwistedPlayground] (http://TwistedPlayrgound.info/TimeStamp)
+You can view the current build statuses for CyanogenMod at [buildbot.teamdouche.net](http://buildbot.teamdouche.net/) and Twisted ICS at [TwistedPlayground] (http://TwistedPlayrgound.info/MechaTimeStamp and http://TwistedPlayrgound.info/AceTimeStamp)
