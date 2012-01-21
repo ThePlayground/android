@@ -258,7 +258,6 @@
     <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="twisted" revision="ics" />
     <project path="hardware/ril" name="android_hardware_ril" remote="twisted" revision="ics" />
     <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="twisted" revision="ics" />
-    <project path="packages/apps/CMSettings" name="android_packages_apps_CMSettings" remote="twisted" revision="ics" />
     <project path="packages/apps/FileManager" name="android_packages_apps_FileManager" remote="twisted" revision="ics" />
     <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="twisted" revision="ics" />
     <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="twisted" revision="ics" />
