@@ -137,7 +137,6 @@
     <project path="external/quake" name="CyanogenMod/android_external_quake" />
     <project path="external/rsync" name="CyanogenMod/android_external_rsync" revision="master" />
     <project path="external/safe-iop" name="CyanogenMod/android_external_safe-iop" />
-    <project path="external/skia" name="CyanogenMod/android_external_skia" />
     <project path="external/sonivox" name="CyanogenMod/android_external_sonivox" />
     <project path="external/speex" name="CyanogenMod/android_external_speex" />
     <project path="external/sqlite" name="CyanogenMod/android_external_sqlite" />
@@ -243,6 +242,7 @@
     <project path="dalvik" name="android_dalvik" remote="twisted" revision="ics" />
     <project path="external/busybox" name="android_external_busybox" remote="twisted" revision="ics" />
     <project path="external/icu4c" name="android_external_icu4c" remote="twisted" revision="ics" />
+    <project path="external/skia" name="android_external_skia" remote="twisted" revision="ics" />
     <project path="external/webkit" name="android_external_webkit" remote="twisted" revision="ics" />
     <project path="external/wpa_supplicant_6" name="android_external_wpa_supplicant_6" remote="twisted" revision="ics" />
     <project path="external/wpa_supplicant_8" name="android_external_wpa_supplicant_8" remote="twisted" revision="ics" />
