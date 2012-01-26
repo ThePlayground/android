@@ -33,9 +33,9 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 
     repo init -u git://github.com/CyanogenMod/android.git -b ics
 
-To initialize your local repository using the TwistedUmbrella trees, use a command like this:
+To initialize your local repository using the TwistedPlayground trees, use a command like this:
 
-    repo init -u git://github.com/TwistedUmbrella/android.git -b ics
+    repo init -u git://github.com/twistedplayground/android.git -b ics
 
 Then to sync up:
 
@@ -51,4 +51,4 @@ Buildbot
 
 All supported devices are built nightly and periodically as changes are committed to ensure the source trees remain buildable.
 
-You can view the current build statuses for CyanogenMod at [buildbot.teamdouche.net](http://buildbot.teamdouche.net/) and Twisted ICS at [TwistedPlayground] (http://twistedumbrella.github.com/android)
+You can view the current build statuses for CyanogenMod at [buildbot.teamdouche.net](http://buildbot.teamdouche.net/) and Twisted ICS at [TwistedPlayground] (http://twistedumbrella.github.com/Twisted-Playground)

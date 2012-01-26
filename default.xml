@@ -13,7 +13,7 @@
     review="review.cyanogenmod.com" />
     
     <remote  name="twisted"
-    fetch="git://github.com/TwistedUmbrella/" />
+    fetch="git://github.com/TwistedPlayground/" />
     
     <default revision="refs/heads/ics"
     remote="github"
