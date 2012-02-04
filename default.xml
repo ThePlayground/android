@@ -271,6 +271,7 @@
     <project path="device/htc/ace" name="android_device_htc_ace" remote="twisted" revision="ics" />
     <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="twisted" revision="ics" /> 
     <project path="device/htc/common" name="android_device_htc_common" remote="twisted" revision="ics" />
+    <project path="device/motorola/sholes" name="android_device_motorola_sholes" remote="twisted" revision="ics" />
     <project path="vendor/htc" name="proprietary_vendor_htc" remote="twisted" revision="ics" />
     <project path="vendor/twisted" name="proprietary_vendor_twisted" remote="twisted" revision="ics" />
     
