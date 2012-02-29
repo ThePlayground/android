@@ -5,7 +5,7 @@
     fetch="https://android.googlesource.com/" />
     
     <remote  name="github"
-    fetch="git://github.com/"
+    fetch="https://github.com/"
     review="review.cyanogenmod.com" />
     
     <remote  name="github-https"
@@ -13,7 +13,7 @@
     review="review.cyanogenmod.com" />
     
     <remote  name="twisted"
-    fetch="git://github.com/PlaygroundICS/" />
+    fetch="https://github.com/PlaygroundICS/" />
     
     <default revision="refs/heads/ics"
     remote="github"
@@ -280,9 +280,9 @@
     <project path="vendor/htc" name="proprietary_vendor_htc" remote="twisted" revision="ics" />
     <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="twisted" revision="ics" />
     <project path="vendor/twisted" name="proprietary_vendor_twisted" remote="twisted" revision="ics" />
-    <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="twisted" revision="ics" />
-    <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="twisted" revision="ics" />
-    <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="twisted" revision="master" />
+    <project path="vendor/qcom-opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="twisted" revision="ics" />
+    <project path="vendor/qcom-opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="twisted" revision="ics" />
+    <project path="vendor/qcom-opensource/v8" name="android_vendor_qcom_opensource_v8" remote="twisted" revision="master" />
     
     <project path="android" name="android" remote="twisted" revision="ics" />
 
