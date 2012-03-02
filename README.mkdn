@@ -35,7 +35,7 @@ To initialize your local repository using the CyanogenMod trees, use a command l
 
 To initialize your local repository using the PlaygroundICS trees, use a command like this:
 
-    repo init -u git://github.com/PlaygroundICS/android.git -b ics
+    repo init -u git://github.com/ThePlayground/android.git -b ics
 
 Then to sync up:
 
