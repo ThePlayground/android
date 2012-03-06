@@ -90,7 +90,6 @@
     <project path="external/javassist" name="platform/external/javassist" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
     <project path="external/jdiff" name="CyanogenMod/android_external_jdiff" />
     <project path="external/jhead" name="CyanogenMod/android_external_jhead" />
-    <project path="external/jpeg" name="CyanogenMod/android_external_jpeg" />
     <project path="external/jsilver" name="platform/external/jsilver" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
     <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
     <project path="external/junit" name="CyanogenMod/android_external_junit" />
@@ -242,6 +241,7 @@
     <project path="external/busybox" name="android_external_busybox" remote="twisted" revision="ics" />
     <project path="external/freetype" name="android_external_freetype" remote="twisted" revision="ics" />
     <project path="external/hostapd" name="android_external_hostapd" remote="twisted" revision="ics" />
+    <project path="external/jpeg" name="android_external_jpeg" remote="twisted" revision="ics" />
     <project path="external/skia" name="android_external_skia" remote="twisted" revision="ics" />
         <project path="external/v8" name="android_external_v8" remote="twisted" revision="ics" />
     <project path="external/webkit" name="android_external_webkit" remote="twisted" revision="ics" />
