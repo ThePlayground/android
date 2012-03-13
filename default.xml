@@ -280,7 +280,6 @@
     <project path="device/htc/common" name="android_device_htc_common" remote="twisted" revision="ics" />
     <project path="device/moto/droid2" name="android_device_moto_droid2" remote="twisted" revision="ics" />
     <project path="device/moto/droid2/D2Bootstrap" name="Droid2Bootstrap" remote="twisted" revision="master" />
-    <project path="device/moto/sholes" name="android_device_moto_sholes" remote="twisted" revision="ics" />
     <project path="vendor/htc" name="proprietary_vendor_htc" remote="twisted" revision="ics" />
     <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="twisted" revision="ics" />
     <project path="vendor/twisted" name="proprietary_vendor_twisted" remote="twisted" revision="ics" />
