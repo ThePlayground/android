@@ -155,7 +155,7 @@
     <project path="external/webrtc" name="platform/external/webrtc" remote="aosp" revision="refs/tags/android-4.0.3_r1" />
     <project path="external/wireless-tools" name="CyanogenMod/android_external_wireless-tools" />
     <project path="external/wpa_supplicant" name="CyanogenMod/android_external_wpa_supplicant" />
-    <project path="external/wpa_supplicant_6" name="CyanogenDefy/android_external_wpa_supplicant_6" />
+    <project path="external/wpa_supplicant_6" name="CyanogenMod/android_external_wpa_supplicant_6" />
     <project path="external/wpa_supplicant_8" name="CyanogenMod/android_external_wpa_supplicant_8" />
     <project path="external/xmlwriter" name="CyanogenMod/android_external_xmlwriter" />
     <project path="external/vim" name="CyanogenMod/android_external_vim" revision="master" />
@@ -239,7 +239,6 @@
     <project path="dalvik" name="android_dalvik" remote="twisted" revision="ics" />
     <project path="external/busybox" name="android_external_busybox" remote="twisted" revision="ics" />
     <project path="external/freetype" name="android_external_freetype" remote="twisted" revision="ics" />
-    <project path="external/hostapd" name="android_external_hostapd" remote="twisted" revision="ics" />
     <project path="external/jpeg" name="android_external_jpeg" remote="twisted" revision="ics" />
     <project path="external/skia" name="android_external_skia" remote="twisted" revision="ics" />
         <project path="external/v8" name="android_external_v8" remote="twisted" revision="ics" />
@@ -278,10 +277,7 @@
     <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="twisted" revision="ics" />
     <project path="device/htc/msm8660-common" name="android_device_htc_msm8660-common" remote="twisted" revision="ics" /> 
     <project path="device/htc/common" name="android_device_htc_common" remote="twisted" revision="ics" />
-    <project path="device/moto/droid2" name="android_device_moto_droid2" remote="twisted" revision="ics" />
-    <project path="device/moto/droid2/D2Bootstrap" name="Droid2Bootstrap" remote="twisted" revision="master" />
     <project path="vendor/htc" name="proprietary_vendor_htc" remote="twisted" revision="ics" />
-    <project path="vendor/motorola" name="proprietary_vendor_motorola" remote="twisted" revision="ics" />
     <project path="vendor/twisted" name="proprietary_vendor_twisted" remote="twisted" revision="ics" />
     <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="twisted" revision="ics" />
     <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="twisted" revision="ics" />
