@@ -276,6 +276,7 @@
     <project path="device/htc/qsd8k-common" name="android_device_htc_qsd8k-common" remote="twisted" revision="ics" />
     <project path="device/htc/common" name="android_device_htc_common" remote="twisted" revision="ics" />
     <project path="vendor/htc" name="proprietary_vendor_htc" remote="twisted" revision="ics" />
+    <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="twisted" revision="ics" />
     <project path="vendor/twisted" name="proprietary_vendor_twisted" remote="twisted" revision="ics" />
     <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="twisted" revision="ics" />
     <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="twisted" revision="ics" />
