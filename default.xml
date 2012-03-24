@@ -237,7 +237,7 @@
     <project path="development" name="android_development" remote="twisted" revision="ics" />
     <project path="external/busybox" name="android_external_busybox" remote="twisted" revision="ics" />
     <project path="external/freetype" name="android_external_freetype" remote="twisted" revision="ics" />
-    <project path="external/jpeg" name="android_external_jpeg" remote="twisted" revision="ics" />
+    <project path="external/jpeg" name="android_external_jpeg-turbo" remote="twisted" revision="ics" />
     <project path="external/skia" name="android_external_skia" remote="twisted" revision="ics" />
         <project path="external/v8" name="android_external_v8" remote="twisted" revision="ics" />
     <project path="external/webkit" name="android_external_webkit" remote="twisted" revision="ics" />
