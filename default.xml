@@ -251,7 +251,6 @@
     <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="twisted" revision="ics" />
     <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="twisted" revision="ics" />
     <project path="hardware/ril" name="android_hardware_ril" remote="twisted" revision="ics" />
-    <project path="packages/apps/AppWidgetPicker" name="android_packages_apps_AppWidgetPicker" remote="twisted" revision="ics" />
     <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="twisted" revision="ics" />
     <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="twisted" revision="ics" />
     <project path="packages/apps/Camera3d" name="android_packages_apps_Camera3d" remote="twisted" revision="ics" />
@@ -262,7 +261,6 @@
     <project path="packages/apps/Phone" name="android_packages_apps_Phone" remote="twisted" revision="ics" />
     <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="twisted" revision="ics" />
     <project path="packages/apps/Superuser" name="android_packages_apps_Superuser" remote="twisted" revision="ics" />
-    <project path="packages/apps/ZeroXBenchmark" name="android_packages_apps_0xbench" remote="twisted" revision="ics" />
     <project path="packages/providers/ContactsProvider" name="android_packages_providers_ContactsProvider" remote="twisted" revision="ics" />
     <project path="packages/providers/DownloadProvider" name="android_packages_providers_DownloadProvider" remote="twisted" revision="ics" />
     <project path="packages/providers/MediaProvider" name="android_packages_providers_MediaProvider" remote="twisted" revision="ics" />
