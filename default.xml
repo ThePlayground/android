@@ -174,6 +174,7 @@
     <project path="hardware/cm" name="CyanogenMod/android_hardware_cm" />
     <project path="hardware/invensense" name="platform/hardware/invensense" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" />
+    <project path="hardware/ril" name="CyanogenMod/android_hardware_ril" />
     <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="hardware/ti/wlan" name="CyanogenMod/android_hardware_ti_wlan" />
     <project path="libcore" name="CyanogenMod/android_libcore" />
@@ -250,7 +251,6 @@
     <project path="hardware/qcom/camera" name="android_hardware_qcom_camera" remote="twisted" revision="ics" />
     <project path="hardware/qcom/display" name="android_hardware_qcom_display" remote="twisted" revision="ics" />
     <project path="hardware/qcom/media" name="android_hardware_qcom_media" remote="twisted" revision="ics" />
-    <project path="hardware/ril" name="android_hardware_ril" remote="twisted" revision="ics" />
     <project path="packages/apps/Browser" name="android_packages_apps_Browser" remote="twisted" revision="ics" />
     <project path="packages/apps/Camera" name="android_packages_apps_Camera" remote="twisted" revision="ics" />
     <project path="packages/apps/Camera3d" name="android_packages_apps_Camera3d" remote="twisted" revision="ics" />
