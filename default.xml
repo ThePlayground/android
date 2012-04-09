@@ -268,6 +268,7 @@
     <project path="system/bluetooth" name="android_system_bluetooth" remote="twisted" revision="ics" />
     <project path="system/core" name="android_system_core" remote="twisted" revision="ics" />
     <project path="device/htc/ace" name="android_device_htc_ace" remote="twisted" revision="ics" />
+    <project path="device/htc/inc" name="android_device_htc_inc" remote="twisted" revision="ics" />
     <project path="device/htc/mecha" name="android_device_htc_mecha" remote="twisted" revision="ics" />
     <project path="device/htc/shooter" name="android_device_htc_shooter" remote="twisted" revision="ics" />
     <project path="device/htc/speedy" name="android_device_htc_speedy" remote="twisted" revision="ics" />
