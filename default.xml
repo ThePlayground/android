@@ -164,7 +164,6 @@
     <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="frameworks/compile/slang" name="CyanogenMod/android_frameworks_compile_slang" />
     <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
-    <project path="frameworks/media/libvideoeditor" name="platform/frameworks/media/libvideoeditor" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="frameworks/opt/calendar" name="platform/frameworks/opt/calendar" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="frameworks/opt/emoji" name="CyanogenMod/android_frameworks_opt_emoji" />
     <project path="frameworks/opt/inputmethodcommon" name="platform/frameworks/opt/inputmethodcommon" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
@@ -243,6 +242,7 @@
         <project path="external/v8" name="android_external_v8" remote="twisted" revision="ics" />
     <project path="external/webkit" name="android_external_webkit" remote="twisted" revision="ics" />
     <project path="frameworks/base" name="android_frameworks_base" remote="twisted" revision="ics" />
+    <project path="frameworks/media/libvideoeditor" name="android_frameworks_media_libvideoeditor" remote="twisted" revision="ics" />
     <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="twisted" revision="ics" />
     <project path="hardware/libhardware" name="android_hardware_libhardware" remote="twisted" revision="ics" />
     <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="twisted" revision="ics" />
