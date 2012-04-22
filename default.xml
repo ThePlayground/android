@@ -47,7 +47,6 @@
     <project path="external/bash" name="CyanogenMod/android_external_bash" />
     <project path="external/bison" name="CyanogenMod/android_external_bison" />
     <project path="external/blktrace" name="CyanogenMod/android_external_blktrace" />
-    <project path="external/bluetooth/bluez" name="CyanogenMod/android_external_bluetooth_bluez" />
     <project path="external/bluetooth/glib" name="CyanogenMod/android_external_bluetooth_glib" />
     <project path="external/bluetooth/hcidump" name="CyanogenMod/android_external_bluetooth_hcidump" />
     <project path="external/bootmenu" name="CyanogenMod/android_external_bootmenu" />
@@ -236,6 +235,7 @@
     <project path="bionic" name="android_bionic" remote="twisted" revision="ics" />
     <project path="dalvik" name="android_dalvik" remote="twisted" revision="ics" />
     <project path="development" name="android_development" remote="twisted" revision="ics" />
+    <project path="external/bluetooth/bluez" name="android_external_bluetooth_bluez" remote="twisted" revision="ics" />
     <project path="external/busybox" name="android_external_busybox" remote="twisted" revision="ics" />
     <project path="external/freetype" name="android_external_freetype" remote="twisted" revision="ics" />
     <project path="external/jpeg" name="android_external_jpeg-turbo" remote="twisted" revision="ics" />
