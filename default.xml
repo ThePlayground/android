@@ -281,6 +281,8 @@
     <project path="device/htc/common" name="android_device_htc_common" remote="twisted" revision="ics" />
     <project path="kernel/htc/mecha" name="leanKernel-tbolt-ics" remote="twisted" revision="aosp" />
     <project path="kernel/htc/shooter" name="htc-kernel-msm8660" remote="twisted" revision="teamevo-3.0" />
+    <project path="kernel/htc/speedy" name="tiamat-7x30-kernel" remote="twisted" revision="android-msm-2.6.35-ics-tiamat" />
+    <project path="kernel/htc/supersonic" name="tiamat-8x50-kernel" remote="twisted" revision="android-msm-2.6.38-ics-tiamat" />
     <project path="vendor/htc" name="proprietary_vendor_htc" remote="twisted" revision="ics" />
     <project path="vendor/qcom" name="proprietary_vendor_qcom" remote="twisted" revision="ics" />
     <project path="vendor/twisted" name="proprietary_vendor_twisted" remote="twisted" revision="ics" />
