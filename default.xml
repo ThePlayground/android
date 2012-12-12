@@ -53,7 +53,7 @@
     <project path="external/bouncycastle" name="CyanogenMod/android_external_bouncycastle" />
     <project path="external/bsdiff" name="CyanogenMod/android_external_bsdiff" />
     <project path="external/bzip2" name="CyanogenMod/android_external_bzip2" />
-    <project path="external/chromium" name="CyanogenMod/android_external_chromium" />
+    <project path="external/chromium" name="android_external_chromium" remote="twisted" revision="ics" />
     <project path="external/clang" name="platform/external/clang" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/collada" name="platform/external/collada" remote="aosp" revision="refs/tags/android-4.0.4_r1.1" />
     <project path="external/dbus" name="CyanogenMod/android_external_dbus" />
