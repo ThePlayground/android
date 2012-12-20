@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     
-    <remote  name="twisted"
+    <remote  name="tz"
     fetch="https://github.com/ThePlayground/" />
     
     <remote  name="aosp"
@@ -28,8 +28,8 @@
     <project path="dalvik" name="android_dalvik" remote="cm" revision="ics" />
     <project path="development" name="platform/development" />
     <project path="device/common" name="device/common" />
-    <project path="device/htc/mecha" name="android_device_htc_mecha" remote="ls" revision="ics" />
-    <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="ls" revision="ics" />
+    <project path="device/htc/mecha" name="android_device_htc_mecha" remote="tz" revision="lice" />
+    <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="tz" revision="lice" />
     <project path="external/android-mock" name="platform/external/android-mock" />
     <project path="external/antlr" name="platform/external/antlr" />
     <project path="external/apache-harmony" name="platform/external/apache-harmony" />
@@ -150,7 +150,7 @@
     <project path="external/xmlwriter" name="android_external_xmlwriter" remote="cm" revision="ics" />
     <project path="external/yaffs2" name="android_external_yaffs2" remote="cm" revision="ics" />
     <project path="external/zlib" name="android_external_zlib" remote="cm" revision="ics" />
-    <project path="frameworks/base" name="android_frameworks_base" remote="ls" revision="ics" />
+    <project path="frameworks/base" name="android_frameworks_base" remote="tz" revision="lice" />
     <project path="frameworks/compile/libbcc" name="android_frameworks_compile_libbcc" remote="cm" revision="ics" />
     <project path="frameworks/compile/linkloader" name="platform/frameworks/compile/linkloader" />
     <project path="frameworks/compile/slang" name="android_frameworks_compile_slang" remote="cm" revision="ics" />
@@ -176,7 +176,7 @@
     <project path="hardware/ti/omap3" name="android_hardware_ti_omap3" remote="cm" revision="ics" />
     <project path="hardware/ti/omap4xxx" name="platform/hardware/ti/omap4xxx" />
     <project path="hardware/ti/wlan" name="android_hardware_ti_wlan" remote="cm" revision="ics" />
-    <project path="kernel/htc/mecha" name="android_kernel_htc_mecha" remote="ls" revision="ics" />
+    <project path="kernel/htc/mecha" name="android_kernel_htc_mecha" remote="tz" revision="ics" />
     <project path="libcore" name="android_libcore" remote="cm" revision="ics" />
     <project path="ndk" name="android_ndk" remote="cm" revision="ics" />
     <project path="packages/apps/BasicSmsReceiver" name="platform/packages/apps/BasicSmsReceiver" />
@@ -235,7 +235,7 @@
     <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="cm" revision="ics" />
     <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="android_vendor_qcom_opensource_kernel-tests_mm-audio" remote="cm" revision="ics" />
     <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="cm" revision="ics" />
-    <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="cm" revision="ics" />
+    <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="tz" revision="lice" />
     <project path="vendor/qcom/opensource/omx/mm-audio" name="android_vendor_qcom_opensource_omx_mm-audio" remote="cm" revision="ics" />
     <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="ics" />
     <project path="vendor/tmobile/libs/com.tmobile.themes" name="android_vendor_tmobile_libs_com.tmobile.themes" remote="cm" revision="ics" />
