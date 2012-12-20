@@ -163,7 +163,7 @@
     <project path="frameworks/opt/vcard" name="platform/frameworks/opt/vcard" />
     <project path="frameworks/support" name="platform/frameworks/support" />
     <project path="hardware/alsa_sound" name="android_hardware_alsa_sound" remote="cm" revision="ics" />
-    <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="cm" revision="ics" />
+    <project path="hardware/broadcom/wlan" name="android_hardware_broadcom_wlan" remote="tz" revision="lice" />
     <project path="hardware/invensense" name="platform/hardware/invensense" />
     <project path="hardware/libhardware" name="android_hardware_libhardware" remote="cm" revision="ics" />
     <project path="hardware/libhardware_legacy" name="android_hardware_libhardware_legacy" remote="ls" revision="ics" />
@@ -234,7 +234,7 @@
     <project path="vendor/qcom/proprietary" name="proprietary_vendor_qcom" remote="ls" revision="ics" />
     <project path="vendor/qcom/opensource/v8" name="android_vendor_qcom_opensource_v8" remote="cm" revision="ics" />
     <project path="vendor/qcom/opensource/kernel-tests/mm-audio" name="android_vendor_qcom_opensource_kernel-tests_mm-audio" remote="cm" revision="ics" />
-    <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="cm" revision="ics" />
+    <project path="vendor/qcom/opensource/omx/mm-core" name="android_vendor_qcom_opensource_omx_mm-core" remote="tz" revision="lice" />
     <project path="vendor/qcom/opensource/omx/mm-video" name="android_vendor_qcom_opensource_omx_mm-video" remote="tz" revision="lice" />
     <project path="vendor/qcom/opensource/omx/mm-audio" name="android_vendor_qcom_opensource_omx_mm-audio" remote="cm" revision="ics" />
     <project path="vendor/tmobile/apps/ThemeChooser" name="themes-platform-vendor-tmobile-apps-ThemeChooser" remote="cm" revision="ics" />
