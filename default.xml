@@ -126,7 +126,7 @@
     <project path="external/qemu-pc-bios" name="platform/external/qemu-pc-bios" />
     <project path="external/quake" name="android_external_quake" remote="cm" revision="ics" />
     <project path="external/safe-iop" name="android_external_safe-iop" remote="cm" revision="ics" />
-    <project path="external/skia" name="android_external_skia" remote="tz" revision="ics" />
+    <project path="external/skia" name="android_external_skia" remote="tz" revision="lice" />
     <project path="external/sonivox" name="android_external_sonivox" remote="cm" revision="ics" />
     <project path="external/speex" name="android_external_speex" remote="cm" revision="ics" />
     <project path="external/sqlite" name="android_external_sqlite" remote="cm" revision="ics" />
@@ -142,7 +142,7 @@
     <project path="external/tremolo" name="android_external_tremolo" remote="cm" revision="ics" />
     <project path="external/v8" name="android_external_v8" remote="cm" revision="ics" />
     <project path="external/valgrind" name="android_external_valgrind" remote="cm" revision="ics" />
-    <project path="external/webkit" name="android_external_webkit" remote="tz" revision="lice" />
+    <project path="external/webkit" name="android_external_webkit" remote="tz" revision="cm" />
     <project path="external/webp" name="android_external_webp" remote="cm" revision="ics" />
     <project path="external/webrtc" name="android_external_webrtc" remote="cm" revision="ics" />
     <project path="external/wpa_supplicant" name="android_external_wpa_supplicant" remote="cm" revision="ics" />
