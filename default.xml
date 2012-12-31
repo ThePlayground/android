@@ -28,6 +28,7 @@
     <project path="dalvik" name="android_dalvik" remote="cm" revision="ics" />
     <project path="development" name="platform/development" />
     <project path="device/common" name="device/common" />
+    <project path="device/htc/common" name="android_device_htc_common" remote="tz" revision="lice" />
     <project path="device/htc/mecha" name="android_device_htc_mecha" remote="tz" revision="lice" />
     <project path="device/htc/msm7x30-common" name="android_device_htc_msm7x30-common" remote="tz" revision="lice" />
     <project path="external/android-mock" name="platform/external/android-mock" />
@@ -141,7 +142,7 @@
     <project path="external/tremolo" name="android_external_tremolo" remote="cm" revision="ics" />
     <project path="external/v8" name="android_external_v8" remote="cm" revision="ics" />
     <project path="external/valgrind" name="android_external_valgrind" remote="cm" revision="ics" />
-    <project path="external/webkit" name="android_external_webkit" remote="tz" revision="ics" />
+    <project path="external/webkit" name="android_external_webkit" remote="tz" revision="lice" />
     <project path="external/webp" name="android_external_webp" remote="cm" revision="ics" />
     <project path="external/webrtc" name="android_external_webrtc" remote="cm" revision="ics" />
     <project path="external/wpa_supplicant" name="android_external_wpa_supplicant" remote="cm" revision="ics" />
