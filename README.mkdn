@@ -1,4 +1,6 @@
-CyanogenMod / Playground ICS
+![playgroundlogo](https://f.cloud.github.com/assets/1173913/2146419/7c8aa480-93bf-11e3-932a-d26be77a8b9f.png)
+
+Playground ICS
 ===========
 
 Submitting Patches
